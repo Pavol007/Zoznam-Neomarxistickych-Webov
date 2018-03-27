@@ -11,6 +11,7 @@ topky.sk
 pluska.sk
 webnoviny.sk
 tvnoviny.sk
+noviny.sk
 cas.sk
 etrend.sk
 medialne.sk
@@ -19,3 +20,7 @@ osf.sk
 protinenavisti.sk
 obycajniludia.sk
 demagog.sk
+centrum.sk
+aktualne.sk
+ujszo.com
+topspravy.sk
